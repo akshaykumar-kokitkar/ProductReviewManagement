@@ -31,6 +31,12 @@ namespace ProductReviewManagement
             {
                 Console.WriteLine("ProductId: " + product.ProductId + " " + "UserId: " + product.UserId + " " + "Rating: " + product.Rating + " " + "Review: " + product.Review + " " + "isLike: " + product.isLike);
             }
+
+            //insatnce
+            Management management = new Management();
+
+            //UC2
+            management.TopRecords(productslist);
         }
     }
 }
