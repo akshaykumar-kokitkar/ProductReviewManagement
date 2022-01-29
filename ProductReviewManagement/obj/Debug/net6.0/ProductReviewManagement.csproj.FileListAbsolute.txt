@@ -1,0 +1,15 @@
+C:\Users\ak\Desktop\BridgeLabz Project\ProductReviewManagement\ProductReviewManagement\bin\Debug\net6.0\ProductReviewManagement.exe
+C:\Users\ak\Desktop\BridgeLabz Project\ProductReviewManagement\ProductReviewManagement\bin\Debug\net6.0\ProductReviewManagement.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\ProductReviewManagement\ProductReviewManagement\bin\Debug\net6.0\ProductReviewManagement.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\ProductReviewManagement\ProductReviewManagement\bin\Debug\net6.0\ProductReviewManagement.dll
+C:\Users\ak\Desktop\BridgeLabz Project\ProductReviewManagement\ProductReviewManagement\bin\Debug\net6.0\ref\ProductReviewManagement.dll
+C:\Users\ak\Desktop\BridgeLabz Project\ProductReviewManagement\ProductReviewManagement\bin\Debug\net6.0\ProductReviewManagement.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\ProductReviewManagement\ProductReviewManagement\obj\Debug\net6.0\ProductReviewManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\ProductReviewManagement\ProductReviewManagement\obj\Debug\net6.0\ProductReviewManagement.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\ProductReviewManagement\ProductReviewManagement\obj\Debug\net6.0\ProductReviewManagement.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\ProductReviewManagement\ProductReviewManagement\obj\Debug\net6.0\ProductReviewManagement.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\ProductReviewManagement\ProductReviewManagement\obj\Debug\net6.0\ProductReviewManagement.dll
+C:\Users\ak\Desktop\BridgeLabz Project\ProductReviewManagement\ProductReviewManagement\obj\Debug\net6.0\ref\ProductReviewManagement.dll
+C:\Users\ak\Desktop\BridgeLabz Project\ProductReviewManagement\ProductReviewManagement\obj\Debug\net6.0\ProductReviewManagement.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\ProductReviewManagement\ProductReviewManagement\obj\Debug\net6.0\ProductReviewManagement.genruntimeconfig.cache
+C:\Users\ak\Desktop\BridgeLabz Project\ProductReviewManagement\ProductReviewManagement\obj\Debug\net6.0\ProductReviewManagement.csproj.AssemblyReference.cache
