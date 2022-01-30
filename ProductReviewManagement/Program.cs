@@ -37,6 +37,10 @@ namespace ProductReviewManagement
 
             //UC2
             management.TopRecords(productslist);
+
+            //UC3
+            management.SelectedRecords(productslist);
+
         }
     }
 }
