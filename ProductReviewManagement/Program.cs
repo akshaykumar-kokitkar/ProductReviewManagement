@@ -47,6 +47,9 @@ namespace ProductReviewManagement
             //UC5
             management.RetrieveProductID(productslist);
 
+            //UC6
+            management.SkipTopFive(productslist);
+
         }
     }
 }
