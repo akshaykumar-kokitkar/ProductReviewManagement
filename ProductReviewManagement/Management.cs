@@ -47,5 +47,17 @@ namespace ProductReviewManagement
             }
         }
 
+        //UC5
+        public void RetrieveProductID(List<ProductReview> listProductReview)
+        {
+            var recordedData = (from list in listProductReview
+                                select new { list.ProductId, list.Review });
+            foreach (var list in recordedData)
+            {
+                Console.WriteLine(list.ToString());
+            }
+
+        }
+
     }
 }
